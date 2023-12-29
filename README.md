@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ichwan Sholihin</h1>
+<h3 align="center">has a strong passion as Software Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giryindra28&label=Profile%20views&color=0e75b6&style=flat" alt="giryindra28" /> </p>
 
-<!--
-**giryindra28/giryindra28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=giryindra28&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
+**Social contributions (click for detail):**  
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Rohis+Natar+Dev&hl=en-ID)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Miy2UecAAAAJ)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ichwansholihin.medium.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **My github stats:**  
+<div align="center">
+
+![Ichwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichwansh03&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ichwansh03&theme=tokyonight)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ichwansh03&theme=2077)
+</div>
+
+**My saved articles:**
+
+[Microservice architecture pattern](https://microservices.io/patterns/microservices.html)
+
+[Clean code blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+[Refactoring and design pattern](https://refactoring.guru/refactoring)
+
+[The Pragmatic Programmer (E-Book PDF)](https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf)
+
+[Object Oriented Design](https://www.oodesign.com/)
+
+[dev.java](https://dev.java/)
+
+[gang of 4 design pattern](https://springframework.guru/gang-of-four-design-patterns/)
