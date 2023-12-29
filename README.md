@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ichwan Sholihin</h1>
-<h3 align="center">has a strong passion as Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Giry Retno Indra Pangestu</h1>
+<h3 align="center">has a strong passion as Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giryindra28&label=Profile%20views&color=0e75b6&style=flat" alt="giryindra28" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=giryindra28&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
