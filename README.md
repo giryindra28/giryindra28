@@ -8,25 +8,10 @@
 📈 **My github stats:**  
 <div align="center">
 
-![Ichwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=giryindra28&show_icons=true&theme=tokyonight)
+![Giry's GitHub stats](https://github-readme-stats.vercel.app/api?username=giryindra28&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=giryindra28&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giryindra28&theme=2077)
 </div>
 
-**My saved articles:**
-
-[Microservice architecture pattern](https://microservices.io/patterns/microservices.html)
-
-[Clean code blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-
-[Refactoring and design pattern](https://refactoring.guru/refactoring)
-
-[The Pragmatic Programmer (E-Book PDF)](https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf)
-
-[Object Oriented Design](https://www.oodesign.com/)
-
-[dev.java](https://dev.java/)
-
-[gang of 4 design pattern](https://springframework.guru/gang-of-four-design-patterns/)
